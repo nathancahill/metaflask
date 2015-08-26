@@ -1,0 +1,3 @@
+Flask-Inputs
+
+Extend WTForms validation to all inputs (args, headers, json, etc.)
